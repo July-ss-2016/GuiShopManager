@@ -1,0 +1,5 @@
+gui_items:
+  '1':
+    kit_name: 'join_kit'
+    kit_index: 0
+    shop_name: server_forward

@@ -1,0 +1,7 @@
+name: GuiShopManager
+main: vip.ourcraft.mcserverplugins.guishopmanager.GuiShopManager
+author: July_ss
+version: 1.0.0
+depend: [CreeperKits, BossShop]
+commands:
+  gsm:
